@@ -1,0 +1,19 @@
+{
+    "name": "Solana BigBoys #0003",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EXrJ11JpPNc9fGQzvc4xGN4pMM5zkjbjCEnoe75ixku6",
+          "share": 100
+        }
+      ]
+    }
+  }
