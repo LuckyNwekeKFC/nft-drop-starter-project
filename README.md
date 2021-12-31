@@ -11,4 +11,4 @@ To get started with this course, clone this repo and follow these commands:
 If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
 
 ### Questions?
-Have some questions, contact me email: kingfavourjudah@gmail.com discord: KingFavour#3207
+Have some questions, contact me with my email: kingfavourjudah@gmail.com or discord: KingFavour#3207
